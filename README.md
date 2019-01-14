@@ -26,6 +26,8 @@ Example :
                   app:floatingSearch_close_search_on_keyboard_dismiss="true"/>
 
 
+
+
                 mSearchView.setOnQueryChangeListener(new FloatingSearchView.OnQueryChangeListener() {
               @Override
               public void onSearchTextChanged(String oldQuery, final String newQuery) {
