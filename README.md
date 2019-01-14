@@ -38,3 +38,19 @@ Example :
                   mSearchView.swapSuggestions(newSuggestions);
               }
           });
+          
+          
+3- Styling : 
+
+            <style name="SearchView">
+                    <item name="floatingSearch_backgroundColor"></item>
+                    <item name="floatingSearch_viewSearchInputTextColor"></item>
+                    <item name="floatingSearch_viewSuggestionItemTextColor"></item>
+                    <item name="floatingSearch_hintTextColor"></item>
+                    <item name="floatingSearch_dividerColor"></item>
+                    <item name="floatingSearch_clearBtnColor"></item>
+                    <item name="floatingSearch_leftActionColor"></item>
+                    <item name="floatingSearch_menuItemIconColor"></item>
+                    <item name="floatingSearch_suggestionRightIconColor"></item>
+                    <item name="floatingSearch_actionMenuOverflowColor"></item>
+            </style>
