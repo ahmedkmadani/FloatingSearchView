@@ -1,12 +1,13 @@
 # FloatingSearchView
 An implementation of a floating view search box and suggestions. 
-Usage<h2> : 
 
-In your dependencies add : 
+Usage: 
+
+1- In your dependencies add : 
 
          implemention 'com.github.arimorty:floatingsearchview:2.1.1'
          
-add Floating Search View in your view heircuy and adjuts weight and width 
+2- add Floating Search View in your view heircuy and adjuts weight and width 
 
 Example : 
 
