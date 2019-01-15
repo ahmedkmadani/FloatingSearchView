@@ -1,14 +1,13 @@
 # FloatingSearchView
 An implementation of a floating view search box and suggestions. 
+ 
 
-## Usage: 
-
-###### 1- In your dependencies add : 
+###### Implemention : 
 
          implemention 'com.github.arimorty:floatingsearchview:2.1.1'
          
-###### 2- add Floating Search View in your view heircuy and adjuts weight and width 
 
+###### Layout :
 
      <com.arlib.floatingsearchview.FloatingSearchView
                   android:id="@+id/floating_search_view"
@@ -25,6 +24,7 @@ An implementation of a floating view search box and suggestions.
                   app:floatingSearch_close_search_on_keyboard_dismiss="true"/>
 
 
+###### Activity :
 
 
                 mSearchView.setOnQueryChangeListener(new FloatingSearchView.OnQueryChangeListener() {
@@ -39,7 +39,7 @@ An implementation of a floating view search box and suggestions.
           });
           
           
-###### 3- Styling : 
+###### Styling : 
 
             <style name="SearchView">
                     <item name="floatingSearch_backgroundColor"></item>
