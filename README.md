@@ -1,15 +1,14 @@
 # FloatingSearchView
 An implementation of a floating view search box and suggestions. 
 
-Usage: 
+## Usage: 
 
-1- In your dependencies add : 
+###### 1- In your dependencies add : 
 
          implemention 'com.github.arimorty:floatingsearchview:2.1.1'
          
-2- add Floating Search View in your view heircuy and adjuts weight and width 
+###### 2- add Floating Search View in your view heircuy and adjuts weight and width 
 
-Example : 
 
      <com.arlib.floatingsearchview.FloatingSearchView
                   android:id="@+id/floating_search_view"
@@ -40,7 +39,7 @@ Example :
           });
           
           
-3- Styling : 
+###### 3- Styling : 
 
             <style name="SearchView">
                     <item name="floatingSearch_backgroundColor"></item>
