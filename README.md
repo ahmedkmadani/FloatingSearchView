@@ -53,3 +53,20 @@ An implementation of a floating view search box and suggestions.
                     <item name="floatingSearch_suggestionRightIconColor"></item>
                     <item name="floatingSearch_actionMenuOverflowColor"></item>
             </style>
+            
+            
+            
+            
+    
+    
+ 
+ 
+ 
+###### Screenshots : 
+
+
+
+![Image of FloatingSearchView](https://github.com/ahmedkmadani/FloatingSearchView/blob/master/Screenshots/Screenshot_2019-01-16-00-59-17.png)
+
+
+
