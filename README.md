@@ -70,3 +70,8 @@ An implementation of a floating view search box and suggestions.
 
 
 
+![Image of FloatingSearchView](https://github.com/ahmedkmadani/FloatingSearchView/blob/master/Screenshots/Screenshot_2019-01-16-00-59-33.png)
+
+
+
+
